@@ -1,0 +1,26 @@
+{
+  "name": "projeto_pessoal_graphql",
+  "version": "1.0.0",
+  "description": "Estudo de graphql criando api de consulta em banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleitonbrandao/projeto_pessoal_graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleitonbrandao/projeto_pessoal_graphql/issues"
+  },
+  "homepage": "https://github.com/cleitonbrandao/projeto_pessoal_graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.19"
+  }
+}
